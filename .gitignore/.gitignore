@@ -4,6 +4,7 @@
 *.swo
 *.swp
 *.swn
+*.sqlite3
 
 # Directories #
 ###############
@@ -11,7 +12,7 @@ logs/
 
 # Specific files #
 ##################
-projectname/settings.py
+<PROJECTNAME>/settings.py
 
 # OS generated files #
 ######################
